@@ -1,0 +1,9 @@
+{% extends "layout.html" %}
+{% block content %}
+<div>Political links.</div>
+<ul  class="list-unstyled">
+{% for link, name in sites.items() %}
+    <li><a href="{{link}}" target="_blank"> {{name}} </a> </li>
+{% endfor %}
+</ul>
+{% endblock %}

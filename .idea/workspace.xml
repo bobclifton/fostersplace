@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5d544bb2-4933-40a8-9107-68523d5b7e51" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YoQcNsjX6w6t3dJnhUb9CoNZ8L" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Dan\Development\Projects\flask_projects\fostersplace\app" />
+      <recent name="C:\Users\Dan\Development\Projects\flask_projects\fostersplace\templates" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5d544bb2-4933-40a8-9107-68523d5b7e51" name="Default Changelist" comment="" />
+      <created>1583606545787</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583606545787</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2690" y="343" key="FileChooserDialogImpl" timestamp="1583607620253">
+      <screen x="1982" y="0" width="1858" height="1200" />
+    </state>
+    <state x="2690" y="343" key="FileChooserDialogImpl/0.0.1920.1050/1982.0.1858.1200@1982.0.1858.1200" timestamp="1583607620253" />
+    <state x="461" y="168" key="SettingsEditor" timestamp="1586963095198">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="461" y="168" key="SettingsEditor/0.0.1920.1050/1982.0.1858.1200@0.0.1920.1050" timestamp="1586963095198" />
+    <state x="645" y="372" key="com.intellij.ide.util.TipDialog" timestamp="1587050678610">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="645" y="372" key="com.intellij.ide.util.TipDialog/0.0.1920.1050/1982.0.1858.1200@0.0.1920.1050" timestamp="1587050678610" />
+    <state x="2606" y="425" key="com.intellij.ide.util.TipDialog/0.0.1920.1050/1982.0.1858.1200@1982.0.1858.1200" timestamp="1585948427285" />
+  </component>
+</project>

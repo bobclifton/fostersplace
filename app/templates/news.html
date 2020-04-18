@@ -1,0 +1,13 @@
+{% extends "layout.html" %}
+{% block content %}
+<div>News and Weather.</div>
+<ul  class="list-unstyled">
+{% for link, name in sites.items() %}
+    <li><a href="{{link}}" target="_blank"> {{name}} </a> </li>
+{% endfor %}
+</ul>
+<a href = "https://mediabiasfactcheck.com/" target="_blank">Mediabias Factcheck</a><br/>
+<a href = "https://www.worldometers.info/" target="_blank">Worldometer Info</a><br/>
+<a href = "http://www.austintexas.gov/covid19" target="_blank">Covid-19 Austin TX</a><br/>
+<a href = "https://renchengdong.github.io/austinCOVIDMap/" target="_blank">AustinCovidMap</a><br/>
+{% endblock %}

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>FostersPlace-Layout</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="http://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css" rel="stylesheet" media="screen">
+      <link rel="stylesheet" type="text/css" href="static/custom.css">
+  </head>
+  <body>
+  <nav class="navbar navbar-expand-md navbar-light bg-light" style="background-color: #FFFFCD;">
+      <!-- Toggle Button [handles opening navbar components on mobile screens]-->
+    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#exampleNavComponents" aria-expanded"false">
+        <i class="glyphicon glyphicon-align-center"></i>
+    </button>
+    <a href="home" class="navbar-brand"  style="color:#e6d843; background-color: #5b7d5e;">Fostersplace</a>
+      <ul class = "nav navbar-nav">
+          <li class="nav-item"><a class="nav-link" href="news" class="nav-item nav-link">News</a></li>
+          <li class="nav-item"><a class="nav-link" href="politics" class="nav-item nav-link">Politics</a></li>
+          <li class="nav-item"><a class="nav-link" href="tech" class="nav-item nav-link">Tech</a></li>
+          <li class="nav-item"><a class="nav-link" href="social" class="nav-item nav-link">Social</a></li>
+          <li class="nav-item"><a class="nav-link" href="music" class="nav-item nav-link">Music</a></li>
+          <li class="nav-item"><a class="nav-link" href="italian" class="nav-item nav-link">Italian</a></li>
+
+          <li class="nav-item"><a class="nav-link" href="science" class="nav-item nav-link">Science</a></li>
+          <li class="nav-item"><a class="nav-link" href="history" class="nav-item nav-link">History</a></li>
+          <li class="nav-item"><a class="nav-link" href="contact" class="nav-item nav-link">Contact</a></li>
+          <li class="nav-item"><a class="nav-link" href="https://keep.google.com/#home" target = "_blank">Note</a></li>
+          <li class="nav-item"><a class="nav-link" href="admin" class="nav-item nav-link">Admin</a></li>
+      </ul>
+  </nav>
+    <div class="container">
+        <!-- child template -->
+        {% block content %} {% endblock %}
+        <!-- errors -->
+
+        <!-- messages -->
+
+    </div>
+    <script src="http://code.jquery.com/jquery-1.10.2.min.js"></script>
+    <script src="http://netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"></script>
+  </body>
+</html>
